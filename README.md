@@ -6,7 +6,7 @@ This repository contains the material corresponding to the webinar/Hands-on: _GP
 2. **Show** through simple examples the use of Parallel and Distributed Programming in multi-GPU systems;
 3. **Expose** students to applicability in case studies.
 
-Material available in \*.ipynb (Jupyter NoteBook) format. There are 8 notebooks in this repository:
+Material available in \*.ipynb (Jupyter NoteBook) format. There are $8$ notebooks in this repository:
 
 ## [1-Introduction.ipynb](https://drive.google.com/file/d/1cVo4tyMFsdYi4I-Yf5YllVh4GF2TFYuv/view?usp=sharing)
 The introductory notebook contains some of the webinar's content, and through some basic commands, we will be able to characterize the available multi-GPU execution environment.
@@ -35,4 +35,4 @@ We finish with the solution of the Laplace equations using the Jacobi iteration.
 ---
 
 [Murilo Boratto](http://lattes.cnpq.br/9222855062709254) <br/>
-Researcher at the Supercomputing Center for Industrial Innovation SENAI-CIMATEC [CS2I](http://www.senaicimatec.com.br/) <br/>
+Researcher at Universidade do Estado da Bahia [UNEB](http://www.uneb.br/) <br/>
