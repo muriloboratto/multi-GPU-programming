@@ -1,4 +1,4 @@
-# GPU Programming Concepts <br />
+# Multi-GPU Programming Concepts <br />
 
 This repository contains the material corresponding to the webinar/Hands-on: _GPU Programming Concepts_ . The objectives are:
 
