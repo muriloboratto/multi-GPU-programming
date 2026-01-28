@@ -11,7 +11,7 @@ Material available in \*.ipynb (Jupyter NoteBook) format. There are $8$ notebook
 ## [1-Introduction.ipynb](https://drive.google.com/file/d/19AkHblUYBmHm_m3kdN1muY650Ct6q79Q/view?usp=sharing)
 The introductory notebook contains some of the webinar's content, and through some basic commands, we will be able to characterize the available multi-GPU execution environment.
 
-## [2-NCCL-P2P.ipynb](https://drive.google.com/file/d/1GS-kuYEeJZJ_FJ5niAA-pmFnMn7SBOzS/view?usp=sharing)
+## [2-NCCL-P2P.ipynb](https://drive.google.com/file/d/1_dRvTJFca9HJalWMhy3nEk9tfRW9rRmB/view?usp=sharing)
 This notebook will introduce peer-to-peer direct memory access on GPUs through the NCCL API.
 
 ## [3-CUDAWARE-MPI.ipynb](https://drive.google.com/file/d/1G9X7srfdVgNuZJZt-HHtW8bI04v_9ZfG/view?usp=sharing)
